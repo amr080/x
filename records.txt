@@ -1,0 +1,175 @@
+
+Host	IP	ASN	ASN Name	Open Services (from DB)	RevIP	
+mobile.x.com	104.244.42.70
+ASN:13414
+104.244.42.0/24	TWITTER
+United States	http: tsa_b
+https: tsa_b
+cn: .twitter.com
+o: Twitter, Inc.
+⋮
+mx3.x.com	199.59.148.207
+mx3.twitter.com	ASN:13414
+199.59.148.0/22	TWITTER
+United States		4	⋮
+mx4.x.com	199.16.156.115
+mx4.twitter.com	ASN:13414
+199.16.156.0/23	TWITTER
+United States		2	⋮
+payments-dev.x.com	52.38.55.35
+ec2-52-38-55-35.us-west-2.compute.amazonaws.com	ASN:16509
+52.36.0.0/14	AMAZON-02
+United States	https: nginx/1.27.1
+title: 404 Not Found
+cn: payments-dev.x.com
+tech: Nginx:1.27.1
+1	⋮
+api.payments-dev.x.com	44.239.91.121
+ec2-44-239-91-121.us-west-2.compute.amazonaws.com	ASN:16509
+44.224.0.0/11	AMAZON-02
+United States		1	⋮
+mobile-api.payments-dev.x.com	44.239.252.12
+ec2-44-239-252-12.us-west-2.compute.amazonaws.com	ASN:16509
+44.224.0.0/11	AMAZON-02
+United States		1	⋮
+web-api.payments-dev.x.com	52.33.233.146
+ec2-52-33-233-146.us-west-2.compute.amazonaws.com	ASN:16509
+52.32.0.0/14	AMAZON-02
+United States		1	⋮
+mobile-api.payments-staging.x.com	44.236.9.116
+ec2-44-236-9-116.us-west-2.compute.amazonaws.com	ASN:16509
+44.224.0.0/11	AMAZON-02
+United States		1	⋮
+webhooks.payments-staging.x.com	52.40.230.54
+ec2-52-40-230-54.us-west-2.compute.amazonaws.com	ASN:16509
+52.40.0.0/14	AMAZON-02
+United States		1	⋮
+support.x.com	104.244.42.195
+ASN:13414
+104.244.42.0/24	TWITTER
+United States	http: tsa_b
+https: tsa_b
+cn: .twitter.com
+o: Twitter, Inc.
+12	⋮
+syndication.x.com	104.244.42.136
+ASN:13414
+104.244.42.0/24	TWITTER
+United States	http: tsa_b
+https: tsa_b
+cn: .twitter.com
+o: Twitter, Inc.
+⋮
+td.x.com	104.244.42.68
+ASN:13414
+104.244.42.0/24	TWITTER
+United States	http: tsa_b
+https: tsa_b
+cn: .twitter.com
+o: Twitter, Inc.
+2	⋮
+ton.x.com	104.244.42.148
+ASN:13414
+104.244.42.0/24	TWITTER
+United States	http: tsa_b
+https: tsa_b
+cn: .twitter.com
+o: Twitter, Inc.
+⋮
+tpop-api.x.com	104.244.42.66
+ASN:13414
+104.244.42.0/24	TWITTER
+United States	http: tsa_b
+https: tsa_b
+cn: .twitter.com
+o: Twitter, Inc.
+⋮
+upload.x.com	104.244.42.139
+ASN:13414
+104.244.42.0/24	TWITTER
+United States	http: tsa_b
+https: tsa_b
+cn: .twitter.com
+o: Twitter, Inc.
+⋮
+wr.x.com	104.244.42.131
+ASN:13414
+104.244.42.0/24	TWITTER
+United States	http: tsa_b
+https: tsa_b
+cn: .twitter.com
+o: Twitter, Inc.
+4	⋮
+MX Records
+
+10 alt4.aspmx.l.google.com	142.250.153.26
+ea-in-f26.1e100.net	ASN:15169
+142.250.153.0/24	GOOGLE
+United States			⋮
+5 alt1.aspmx.l.google.com	209.85.202.26
+dg-in-f26.1e100.net	ASN:15169
+209.85.202.0/24	GOOGLE
+United States			⋮
+5 alt2.aspmx.l.google.com	64.233.184.27
+wa-in-f27.1e100.net	ASN:15169
+64.233.184.0/24	GOOGLE
+United States			⋮
+1 aspmx.l.google.com	142.250.31.27
+bj-in-f27.1e100.net	ASN:15169
+142.250.31.0/24	GOOGLE
+United States			⋮
+10 alt3.aspmx.l.google.com	142.250.27.26
+ra-in-f26.1e100.net	ASN:15169
+142.250.27.0/24	GOOGLE
+United States			⋮
+NS Records
+
+c.u10.twtrdns.net	205.251.194.151
+ns-663.awsdns-18.net	ASN:16509
+205.251.194.0/24	AMAZON-02
+United States			⋮
+d.r10.twtrdns.net	205.251.199.195
+ns-1987.awsdns-56.co.uk	ASN:16509
+205.251.199.0/24	AMAZON-02
+United States			⋮
+d.u10.twtrdns.net	205.251.199.195
+ns-1987.awsdns-56.co.uk	ASN:16509
+205.251.199.0/24	AMAZON-02
+United States			⋮
+a.r10.twtrdns.net	205.251.192.179
+ns-179.awsdns-22.com	ASN:16509
+205.251.192.0/24	AMAZON-02
+United States			⋮
+a.u10.twtrdns.net	204.74.111.101
+edns101.ultradns.org	ASN:397222
+204.74.111.0/24	SECURITYSERVICES
+United States			⋮
+b.r10.twtrdns.net	205.251.196.198
+ns-1222.awsdns-24.org	ASN:16509
+205.251.196.0/24	AMAZON-02
+United States			⋮
+b.u10.twtrdns.net	205.251.196.198
+ns-1222.awsdns-24.org	ASN:16509
+205.251.196.0/24	AMAZON-02
+United States			⋮
+c.r10.twtrdns.net	205.251.194.151
+ns-663.awsdns-18.net	ASN:16509
+205.251.194.0/24	AMAZON-02
+United States			⋮
+TXT Records
+
+"atlassian-domain-verification=j6u0o1PTkobCXC84uEF/sWpIPtaZURBVYqKzmTvT8wugLcHT1vvrzzA63iP1qSLN"
+"google-site-verification=F6u9mGL--d2lbLljvH3b1UUgXtevQPdcamKr9c8914A"
+"v=spf1 ip4:199.16.156.0/22 ip4:199.59.148.0/22 include:_spf.google.com include:_spf.salesforce.com include:_oerp.x.com include:phx1.rp.oracleemaildelivery.com include:iad1.rp.oracleemaildelivery.com -all"
+"atlassian-sending-domain-verification=bd424180-8645-4de5-bd6a-285479c7577a"
+"adobe-idp-site-verification=ab4d9ce3473a73e81f46238da34ea4967fd5ac80e5c43fbfa8dff46d06a5321c"
+"kkdl3qb3tcrmdhfsm803p67r0my0svs8"
+"google-site-verification=8yQmoVhQedzlt36RPeQP41ytrEFk9aHEnde_xm0626g"
+"apple-domain-verification=sEij6tJOW11fVNrG"
+"stripe-verification=46F7B88485621DC18923B43D12E90E6CDBCE232F2FEBCF084E6EFA91F6BA707D"
+"shopify-verification-code=cUZazKrqCWgcshrcGvgfFR1lieuhRF"
+"adobe-sign-verification=c693a744ee2d282a36a43e6e724c5ea"
+"figma-domain-verification=ee8420edd01965ba297f3438c907cfc6fbbaa1ee90a07b28f28bcfca8e6017bb-1729630998"
+"_w548xs1kfxtlqk3jyx19bzwk34c473i"
+"slack-domain-verification=Csk4bjCPFnJaDLLaKFUwCTFuUpCVvnYlAm2Tba0i"
+"3089463"
